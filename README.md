@@ -1,2 +1,2 @@
-Nightbot Commands
-A Repository For Nightbot To Pull Data From
+Bot Commands
+A Repository For Nightbot To Use Url Fetch On To Fetch Data From
