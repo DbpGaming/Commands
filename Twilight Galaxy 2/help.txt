@@ -1,0 +1,1 @@
+~help (umm duh) * ~psn (looks up psn username you give) * ~steam (looks up steam username you give) * ~psnuser (looks up psn username found via your discord name) * ~steamuser (looks up steam username found via your discord name)
